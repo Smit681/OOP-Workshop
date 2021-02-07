@@ -1,0 +1,7 @@
+This workshop was great learning experience. I learned lot of things such as use of namespace, modularity, use of c++ objects cout and cin with << and >> operator, definition of string functions and many more. Also, I revised my debugging technics and also enhance it.
+
+This was my first C++ code. I also got to know about a new data type Boolean. In this workshop, there are plenty of great example of bool. So, now I am able to use this productively. I believe, this workshop was mainly focus on modularity and get familiarized with C++ code. Firstly, in a single source code file. all code was looking so confusing but after breaking it in different files, it was so convenient to look for any function or understand flow of code. I also got some reusable functions such as flushkey, yes, readstring, reading. 
+
+Moreover, I understand use of namespace is so beneficial in group projects and larger code. Everyone can use any function and variable name freely inside his/her namespace without thinking about others. This is great feature in C++. Doing the DIY part, I got to reinforce string functions. Some of there are new such as strstr. That took some time to form perfect definition. 
+
+Overall, I learned and apply lot of concepts in this workshop.
