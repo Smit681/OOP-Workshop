@@ -1,0 +1,16 @@
+//==============================================
+//Workshop   :   2
+//Part       :   reflection
+//==============================================
+// Name          : Smit Shah
+// Student Number: 116605205
+// Email         : syshah3@myseneca.ca
+//
+// Section       : ZBB         
+//==============================================
+
+Mainly, workshop-2 was based on the use of dynamic memory, reference, and overloading of function. I learned these 3 concepts of object-oriented learning very deep this week. Moreover, the first time I used Boolean data type myself, so I also got a clear idea about that. 
+
+In this workshop, Firstly, I learned how to allocate and deallocate dynamic memory and why we should use it. We had an uncertain number of data in the data-file, so we can’t allocate random memory to an array of structures. There may be more data-entry than we predicted then the program will fail or there may be very few data-entries than we allocate. In this case, we end up wasting extra stake memory. To solve this confusion, we should use dynamic memory means, in simple terms, borrowed memory from the heap. Secondly, I overload some functions such as display and load. Overloading means making functions with the same name and different parameters. This is convenient when we need to make a function that does the same overall thing but uses a different datatype. For instance, we can make a function load that takes the different number of parameters and work accordingly. Thirdly, I used a reference to pass arguments to the function. This was the best took away for me from this workshop. I was a little confused in a pass by value and pass by reference sometimes. But this reference concept (just use & before variable) makes things easier. This actually passes the variable or object instead of copy while calling function.
+
+When we pass a parameter that will be modified in function then it is called out parameter. In the workshop, we made read overload functions that take variable and save some value in it from the file. Here, we are modifying the parameter therefore these are out parameters. When we take a parameter just for read purpose, do not make any changes in it, then it is called in parameter. If all parameters are passed with const keyword or there is no pointer or reference then we can say that parameter will be in parameter. In short, in and out make functions more visible and helps to find warnings in compile time.
