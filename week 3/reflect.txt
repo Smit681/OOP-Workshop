@@ -1,0 +1,14 @@
+//==============================================
+//Workshop   :   3
+//Part       :   reflection
+//==============================================
+// Name          : Smit Shah
+// Student Number: 116605205
+// Email         : syshah3@myseneca.ca
+//
+// Section       : ZBB         
+//==============================================
+
+In this workshop, I learned how to use class and its properties. I learned the difference between struct and class. Instance variable and member functions of a class are private by default. And we need to write public if we want to expose them to the whole code. Structs are completely opposite of it. We don’t want to give access to all so it’s beneficial that the class has default private property. Private label in the definition of the class means that we are prohibiting external access. If we want to access the private instance variable of a class, then we have only choice to use the member function of that class as a bridge. Moreover, I learned how to create an instance of a class and call its variable and member function using dot(.) notation. I also learned the use of the scope resolution operator. 
+
+Furthermore, and foremost, I got a pretty solid idea of why we should always initialize all the variables or put them in the empty state. This is very good practice as we are reducing the chances of bugs. For example, in this workshop, if somehow the program calls display function before init function then the output will be undesirable. To check this, there is great command in Linux, that is Valgrind. This shows all the conditional jump errors. That is so useful. 
